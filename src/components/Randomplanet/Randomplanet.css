@@ -1,0 +1,23 @@
+.Randomplanet {
+    background-color: rgb(26, 26, 26);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+padding: 10px;
+height: 300px;
+}
+.Randomplanet img {
+    width: 250px;
+    margin: 10px;
+    margin-right: 50px;
+}
+
+.Randomplanet div p{
+    border-top: 2px grey solid;
+    margin: 5px;
+    padding-top: 5px;
+}
+.imgHolder {
+    width: 300px;
+}

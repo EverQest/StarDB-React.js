@@ -1,0 +1,60 @@
+@keyframes ldio-4oix4blfsih-1 {
+    0% { top: 21.24px; height: 75.52px }
+    50% { top: 40.12px; height: 37.76px }
+    100% { top: 40.12px; height: 37.76px }
+  }
+  @keyframes ldio-4oix4blfsih-2 {
+    0% { top: 25.959999999999997px; height: 66.08px }
+    50% { top: 40.12px; height: 37.76px }
+    100% { top: 40.12px; height: 37.76px }
+  }
+  @keyframes ldio-4oix4blfsih-3 {
+    0% { top: 30.68px; height: 56.64px }
+    50% { top: 40.12px; height: 37.76px }
+    100% { top: 40.12px; height: 37.76px }
+  }
+  .ldio-4oix4blfsih div { position: absolute; width: 14.16px }.ldio-4oix4blfsih div:nth-child(1) {
+    left: 22.419999999999998px;
+    background: #0a0a0a;
+    animation: ldio-4oix4blfsih-1 0.9615384615384615s cubic-bezier(0,0.5,0.5,1) infinite;
+    animation-delay: -0.19230769230769232s
+  }
+  .ldio-4oix4blfsih div:nth-child(2) {
+    left: 51.919999999999995px;
+    background: #28292f;
+    animation: ldio-4oix4blfsih-2 0.9615384615384615s cubic-bezier(0,0.5,0.5,1) infinite;
+    animation-delay: -0.09615384615384616s
+  }
+  .ldio-4oix4blfsih div:nth-child(3) {
+    left: 81.42px;
+    background: #ffffff;
+    animation: ldio-4oix4blfsih-3 0.9615384615384615s cubic-bezier(0,0.5,0.5,1) infinite;
+    animation-delay: undefineds
+  }
+  
+  .loadingio-spinner-pulse-dufuyhve0qn {
+    width: 118px;
+    height: 118px;
+    display: inline-block;
+    overflow: hidden;
+    background: #6b6b6b;
+  }
+  .ldio-4oix4blfsih {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform: translateZ(0) scale(1);
+    backface-visibility: hidden;
+    transform-origin: 0 0; /* see note above */
+  }
+  .ldio-4oix4blfsih div { box-sizing: content-box; }
+
+.container {
+    background-color: rgb(26, 26, 26);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+padding: 10px;
+min-height: 274px;
+}
